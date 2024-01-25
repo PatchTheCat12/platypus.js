@@ -9,6 +9,8 @@ The uncompressed version includes annotations.
 * [Download the compressed, production platypus.js v1.0.0](/code/1x-branch/platypus-v1.0.0.min.js)
 * [Download the uncompressed, development platypus.js v1.0.0](/code/1x-branch/platypus-v1.0.0.js)
 
+* [Link to the latest version of platypus.js, compressed _(note: may break software if functions are changed/removed)_](/code/platypus-latest.min.js)
+
 _(for older versions, go to the_ code _directory, or to the repository releases)_
 
 Libraries

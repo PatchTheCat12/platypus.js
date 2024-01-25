@@ -1,8 +1,3 @@
-platypus.js first version!
-
-* [Download the compressed, production platypus.js v1.0.0](/code/1x-branch/platypus-1.0.0.min.js)
-* [Download the uncompressed, development platypus.js v1.0.0](/code/1x-branch/platypus-1.0.0.js)
-
 platypus.js
 ===========
 My personal Javascript package that automatically inserts my favorite libraries with `script src` elements. Also has some simple functions. It's not much right now, but I hope to make it a useful package for web development in the future. Contact me on **Discord** if you have feedback or ideas for libraries and functions. My username is **patchthecat12**.

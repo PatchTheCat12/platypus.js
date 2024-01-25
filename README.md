@@ -21,7 +21,7 @@ Here is a list of libraries that platypus.js includes:
 
   _(if a library here has updated but this package has not, you can build your own platypus.js with the development version)_
 
-  _(also please tell me if the way I attributed does not comply with the licenses! I'm not sure the best way to do it (especially with the compressed version))_
+  _(also please tell me if the way I attributed them in the files does not comply with the licenses! I'm not sure the best way to do it (especially with the compressed version))_
 
 API Documentation
 -----------------

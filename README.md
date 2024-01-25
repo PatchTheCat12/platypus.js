@@ -6,8 +6,8 @@ Downloading
 -----------
 The uncompressed version includes annotations.
 
-* [Download the compressed, production platypus.js v1.0.0](/code/1x-branch/platypus-v1.0.0.js)
-* [Download the uncompressed, development platypus.js v1.0.0](/code/1x-branch/platypus-v1.0.0.min.js)
+* [Download the compressed, production platypus.js v1.0.0](/code/1x-branch/platypus-v1.0.0.min.js)
+* [Download the uncompressed, development platypus.js v1.0.0](/code/1x-branch/platypus-v1.0.0.js)
 
 _(for older versions, go to the_ code _directory, or to the repository releases)_
 
